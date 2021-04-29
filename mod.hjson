@@ -1,7 +1,7 @@
 name: "pogdustry"
 displayName: "Pogdustry"
 author: "Avocado"
-main: "avo.pogdustry"
+main: "avo.Pogdustry"
 description: "A jar mod."
 version: 1.0
 minGameVersion: 105
