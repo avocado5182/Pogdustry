@@ -1,7 +1,7 @@
-name: "example-java-mod"
-displayName: "Example Java Mod"
-author: "Anuke"
-main: "example.ExampleJavaMod"
+name: "pogdustry"
+displayName: "Pogdustry"
+author: "Avocado"
+main: "avo.pogdustry"
 description: "A jar mod."
 version: 1.0
 minGameVersion: 105
